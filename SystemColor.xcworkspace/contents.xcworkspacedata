@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:">
+   </FileRef>
+   <Group
+      location = "group:Generator"
+      name = "Generator">
+      <FileRef
+         location = "group:Generator.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:Generator"
+         name = "Generator">
+         <FileRef
+            location = "group:Generator.entitlements">
+         </FileRef>
+         <FileRef
+            location = "group:main.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
